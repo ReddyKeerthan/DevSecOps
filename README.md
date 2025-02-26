@@ -1,5 +1,7 @@
-# DevSecOps
-Modern software development faces security risks due to delayed measures, limited automation, and inconsistent configurations. Late-stage vulnerability detection increases costs. Integrating security into every development phase ensures proactive protection, reducing breaches and enhancing security efficiency.
+# DevSecOps pipeline project
+-----------------------------------------------------------------------------------
+![YouTube-Project drawio](https://github.com/darjidhruv26/YouTube-DevSecOps/assets/90086813/647b6007-e8b9-4732-b6de-863835839562)
+-----------------------------------------------------------------------------------
 
 ## Phase 1: Initial Setup 
 ### Step 1: Install Terraform on the local machine
